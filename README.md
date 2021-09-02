@@ -116,4 +116,6 @@ zoon工具网站：https://www.zoonkeeper.io/
 
 打金服务器购买：https://curl.qcloud.com/ZYwQKs3G
 
+GitHub下载加速：https://ghproxy.com
+
 
